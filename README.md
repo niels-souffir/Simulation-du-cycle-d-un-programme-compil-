@@ -1,4 +1,4 @@
-# Simulation-du-cycle-d-un-programme-compil-
+# Simulation du cycle d'un programme compilé
 
 Le but de ce projet est de simuler une machine fictive composée d’une mémoire et d’un microprocesseur. Il y a un programme qui effectue deux tâches. La première est un assembleur qui va transformer un programme écrit en langage assembleur (provenant d’un fichier) en un programme écrit en langage machine (et écrit dans un autre fichier). La deuxième est la simulation proprement dite qui récupère le programme écrit en langage machine et l’exécute instruction après instruction.
 
