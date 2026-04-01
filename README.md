@@ -4,6 +4,6 @@ Le but de ce projet est de simuler une machine fictive composée d’une mémoir
 
 Le programme est lancé par la commande (avec un fichier en assembleur appelé par exemple pgm.txt) :
 
-$ ./simulateur pgm.txt
+./simulateur pgm.txt
 
-La description detaillée du projet se trouve dans le fichier "description_projet.pdf"
+La description detaillée du projet se trouve dans le fichier "description_projet.pdf".
